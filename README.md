@@ -8,7 +8,7 @@
   <li> 🍃 "If you don't like your destiny, don't accept it."</li>
 </ul>
 <hr>
-<div>
+<div align="center">
   <p>Languages, tools and technologies I know:</p>
 </div>
 <hr>
