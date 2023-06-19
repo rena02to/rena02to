@@ -9,7 +9,7 @@
 </ul>
 <hr>
 <div>
-  <p>Languages, tools and technologies I know:</p>
+  <p>Languages, tools and technologies i know:</p>
 </div>
 <hr>
 <div align="center">
