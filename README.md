@@ -2,14 +2,24 @@
   <h1>Hello! My name is Renato Alves</h1>
 </div>
 <hr>
-<ul>
-  <li> 📚 Graduating in Computer Science at UFAL (Federal University of Alagoas)</li>
-  <li> 🖥️ Developing myself in skills of web development and front-end development</li>
-  <li> 🍃 "If you don't like your destiny, don't accept it."</li>
-</ul>
+<div align="center">
+  <h3>A little about myself:</h3>
+  <p> 📚 Graduating in Computer Science at UFAL (Federal University of Alagoas).</p>
+  <p> 🖥️ Developing myself in skills of web development and front-end development.</p>
+  <p> 🍃 "If you don't like your destiny, don't accept it."</p>
+</div>
 <hr>
 <div align="center">
-  <p>Languages, tools and technologies I know:</p>
+  <h3>Languages, tools and technologies I know:</h3>
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
+  <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
+  <img align="center" alt="vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Edu-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 <hr>
 <div align="center">
@@ -19,6 +29,6 @@
 </div>
 <hr>
 <div align="center">
-  <p>Contact me at:</p>
+  <h3>Contact me at:</h3>
 </div>
 <hr>
