@@ -2,7 +2,7 @@
   <h1>Hello! My name is Renato Alves</h1>
 </div>
 <hr>
-<ul align="center">
+<ul>
   <li> 📚 Graduating in Computer Science at UFAL (Federal University of Alagoas)</li>
   <li> 🖥️ Developing myself in skills of web development and front-end development</li>
   <li> 🍃 "If you don't like your destiny, don't accept it."</li>
