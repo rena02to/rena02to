@@ -18,7 +18,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena02to&layout=compact&hide_border=true&title_color=00FF7F&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 <hr>
-<div>
-  <p>You contact me at:</p>
+<div align="center">
+  <p>Contact me at:</p>
 </div>
 <hr>
