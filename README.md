@@ -4,7 +4,7 @@
 <hr>
 <ul>
   <li> 📚 Graduating in Computer Science at UFAL (Federal University of Alagoas)</li>
-  <li> 🖥️ Developing myself in web development and front-end development skills</li>
+  <li> 🖥️ Developing myself in skills of web development and front-end development</li>
   <li> 🍃 "If you don't like your destiny, don't accept it."</li>
 </ul>
 <hr>
