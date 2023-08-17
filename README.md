@@ -4,13 +4,15 @@
 <hr>
 <div align="center">
   <h3>A little about myself:</h3>
-  <p> 📚 Graduating in Computer Science at UFAL (Federal University of Alagoas).</p>
-  <p> 🖥️ Developing my skills in systems security, web development and front-end development</p>
-  <p> 🍃 "If you don't like your destiny, don't accept it."</p>
+  <p> 📚 Graduating in Computer Science at UFAL (Federal University of Alagoas) 🖥 </p>
+  <p> 🔒 Developing my skills in cybersecurity, web development and front-end development 🔗 </p>
+  <p> 🍃 "If you don't like your destiny, don't accept it." 🍂 </p>
 </div>
 <hr>
 <div align="center">
   <h3>Languages, tools and technologies I know:</h3>
+  <img align="center" alt="linux" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
