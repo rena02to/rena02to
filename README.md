@@ -5,7 +5,7 @@
 <div align="center">
   <h3>A little about myself:</h3>
   <p> 📚 Graduating in Computer Science at UFAL (Federal University of Alagoas).</p>
-  <p> 🖥️ Developing my skills in web development and front-end development.</p>
+  <p> 🖥️ Developing my skills in systems security, web development and front-end development</p>
   <p> 🍃 "If you don't like your destiny, don't accept it."</p>
 </div>
 <hr>
