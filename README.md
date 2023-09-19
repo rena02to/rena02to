@@ -11,6 +11,12 @@
 </div>
 <hr>
 <div align="center">
+  <h3>Main repositories and portfolio:</h3>
+  <p>Portfolio coming soon...</p>
+  <a href="https://github.com/rena02to/my-projects">Meet my front-end project repository.</a>
+</div>
+<hr>
+<div align="center">
   <h3>Languages, tools and technologies I know:</h3>
   <img align="center" alt="react" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
