@@ -11,7 +11,7 @@
 <hr>
 <div align="center">
   <h3>Main projects:</h3>
-  <a href="https://tabela-precos.vercel.app/">Meu primeiro projeto criado usando React.</a>
+  <a href="https://connect-planos.vercel.app/">Meu primeiro projeto criado usando React.</a>
 </div>
 <hr>
 <div align="center">
