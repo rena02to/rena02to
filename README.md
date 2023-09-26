@@ -6,14 +6,12 @@
   <h3>A little about myself:</h3>
   <p> 📚 Graduating in Computer Science at UFAL (Federal University of Alagoas) 🖥 </p>
   <p> 🔒 Developing my skills in cybersecurity, web development and front-end development 🔗 </p>
-  <p> ⏳ Portfolio under development...🪫 </p>
   <p> 🍃 "If you don't like your destiny, don't accept it." 🍂 </p>
 </div>
 <hr>
 <div align="center">
-  <h3>Main repositories and portfolio:</h3>
-  <p>Portfolio coming soon...</p>
-  <a href="https://github.com/rena02to/my-projects">Meet my front-end project repository.</a>
+  <h3>Main projects:</h3>
+  <a href="https://tabela-precos.vercel.app/">Meu primeiro projeto criado usando React.</a>
 </div>
 <hr>
 <div align="center">
