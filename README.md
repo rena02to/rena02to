@@ -10,8 +10,8 @@
 </div>
 <hr>
 <div align="center">
-  <h3>Main projects:</h3>
-  <a href="https://connect-planos.vercel.app/">Meu primeiro projeto criado usando React.</a>
+  <h3>Discover my projects:</h3>
+  <p>Discover my projects by <a href="https://portifolio-renato-alves.vercel.app//">clicking here.</a></p>
 </div>
 <hr>
 <div align="center">
