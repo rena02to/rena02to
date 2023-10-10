@@ -11,7 +11,7 @@
 <hr>
 <div align="center">
   <h3>Discover my projects:</h3>
-  <p>Discover my projects by <a href="https://renato-alves-portifolio.vercel.app//">clicking here.</a></p>
+  <p>Discover my projects by <a href="https://renato-alves-portifolio.vercel.app//" target="_blank" rel="noopener noreferrer">clicking here.</a> (Under development)</p>
 </div>
 <hr>
 <div align="center">
