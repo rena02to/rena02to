@@ -5,27 +5,28 @@
 <div align="center">
   <h3>A little about myself:</h3>
   <p> 📚 Graduating in Computer Science at UFAL (Federal University of Alagoas) 🖥 </p>
-  <p> 🔒 Developing my skills in cybersecurity, web development and front-end development 🔗 </p>
+  <p> 🔗 Front-end developer 💻</p>
   <p> 🍃 "If you don't like your destiny, don't accept it." 🍂 </p>
 </div>
 <hr>
 <div align="center">
   <h3>Discover my projects:</h3>
-  <p>Discover my portifolio by <a href="https://renato-alves-portifolio.vercel.app//" target="_blank" rel="noopener noreferrer">clicking here</a> (Under development).</p>
+  <p>Discover my portifolio by <a href="https://renato-alves-portifolio.vercel.app//" target="_blank" rel="noopener noreferrer">clicking here</a> (provisional).</p>
+  <p><a href="https://renato-alves.vercel.app" target="_blank" rel="noopener noreferer" >Main portfolio</a> under development</p>
 </div>
 <hr>
 <div align="center">
   <h3>Languages, tools and technologies I know:</h3>
-  <img align="center" alt="react" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="linux" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Redux" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="next" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+  <img align="center" alt="Sass" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" alt="github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Edu-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div>
 <hr>
 <div align="center">
