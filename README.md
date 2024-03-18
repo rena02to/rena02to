@@ -26,9 +26,7 @@
   <img src="https://skillicons.dev/icons?i=next" heigth="40" title="Next" />
   <img src="https://skillicons.dev/icons?i=sass" heigth="40" title="SASS" />
   <img src="https://skillicons.dev/icons?i=mysql" heigth="40" title="MySQL" />
-  <!--
   <img src="https://skillicons.dev/icons?i=figma" heigth="40" title="Figma" />
-  -->
   <img src="https://skillicons.dev/icons?i=git" heigth="40" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" heigth="40" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=py" heigth="40" title="Python" />
