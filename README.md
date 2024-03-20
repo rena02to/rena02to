@@ -34,9 +34,6 @@
 <hr/>
 <div align="center">
   <h3>Contact me at:</h3>
-  <a href="https://instagram.com/renato_santosx">
-    <img src="https://skillicons.dev/icons?i=instagram" heigth="40" title="Instagram" />
-  </a>
   <a href="https://linkedin.com/in/renatosalves">
     <img src="https://skillicons.dev/icons?i=linkedin" heigth="40" title="Linkedin" />
   </a>
