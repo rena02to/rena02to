@@ -20,16 +20,14 @@
   <h3>Languages, tools and technologies I know:</h3>
   <img src="https://skillicons.dev/icons?i=html" heigth="40" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" heigth="40" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" heigth="40" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" heigth="40" title="TypeScript" />
   <img src="https://skillicons.dev/icons?i=react" heigth="40" title="React.js" />
   <img src="https://skillicons.dev/icons?i=redux" heigth="40" title="Redux" />
   <img src="https://skillicons.dev/icons?i=next" heigth="40" title="Next" />
   <img src="https://skillicons.dev/icons?i=sass" heigth="40" title="SASS" />
-  <img src="https://skillicons.dev/icons?i=mysql" heigth="40" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=figma" heigth="40" title="Figma" />
   <img src="https://skillicons.dev/icons?i=git" heigth="40" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" heigth="40" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=py" heigth="40" title="Python" />
 </div>
 <hr/>
 <div align="center">
