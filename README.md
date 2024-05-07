@@ -1,39 +1,30 @@
-<div align="center">
-  <h1>Hello! My name is Renato Alves</h1>
+<div align=center>
+  
+  
+# Hello! My name is Renato Alves 👋
+
+🍃 "If you don't like your destiny, don't accept it."
+## 🚀 About me
+I'm a front-end developer passionate about technology, design, and everything related to the digital universe. Currently, I'm pursuing a bachelor's degree in Computer Science, and I'm honing my skills in front-end development, delving deeper into the concepts of responsive design, UI, UX, and SEO.
+
+In addition to my passion for technology, I'm an excellent lover of the geek and gamer universe (and yes, Resident Evil is the best game, and Batman is the strongest hero). Whenever I have the chance, I end up diving into virtual worlds and becoming immersed in new adventures.
+
+I'm also a cybersecurity enthusiast and am constantly seeking to acquire and improve my knowledge in the area.
+
+Combining my passion for technology and my love of games and geek culture, I seek to create engaging and intuitive digital experiences that captivate users and transport them to new worlds. I'm constantly seeking to learn and grow, exploring new technologies and trends to offer innovative and creative solutions.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://renatoalves.site/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renatosalves)
+
+
+## 🛠 Skills
+![Next](https://skillicons.dev/icons?i=next "Next")
+![SASS](https://skillicons.dev/icons?i=sass "SASS")
+![HTML](https://skillicons.dev/icons?i=html "HTML")
+![CSS](https://skillicons.dev/icons?i=css "CSS")
+![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")
+![React.js](https://skillicons.dev/icons?i=react "React.js")
+![Git](https://skillicons.dev/icons?i=git "Git")
+![GitHub](https://skillicons.dev/icons?i=github "GitHub")
+  
 </div>
-<hr/>
-<div align="center">
-  <h3>A little about myself:</h3>
-  <p> 📚 Graduating in Computer Science at UFAL (Federal University of Alagoas) </p>
-  <p> 💻 Front-end developer </p>
-  <p> 🔐 Cibersercurity enthusiastic </p>
-  <p> 🎮 Gamer (of course Resident Evil is the best) </p>
-  <p> 🍃 "If you don't like your destiny, don't accept it." </p>
-</div>
-<hr/>
-<div align="center">
-  <h3>Discover my projects:</h3>
-  <p>Discover my portifolio by <a href="https://vercel.com/renato-alves/" target="_blank" rel="noopener noreferrer">clicking here</a> (provisional).</p>
-</div>
-<hr/>
-<div align="center">
-  <h3>Languages, tools and technologies I know:</h3>
-  <img src="https://skillicons.dev/icons?i=html" heigth="40" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" heigth="40" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=ts" heigth="40" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=react" heigth="40" title="React.js" />
-  <img src="https://skillicons.dev/icons?i=redux" heigth="40" title="Redux" />
-  <img src="https://skillicons.dev/icons?i=next" heigth="40" title="Next" />
-  <img src="https://skillicons.dev/icons?i=sass" heigth="40" title="SASS" />
-  <img src="https://skillicons.dev/icons?i=figma" heigth="40" title="Figma" />
-  <img src="https://skillicons.dev/icons?i=git" heigth="40" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" heigth="40" title="GitHub" />
-</div>
-<hr/>
-<div align="center">
-  <h3>Contact me at:</h3>
-  <a href="https://linkedin.com/in/renatosalves">
-    <img src="https://skillicons.dev/icons?i=linkedin" heigth="40" title="Linkedin" />
-  </a>
-</div>
-<hr>
