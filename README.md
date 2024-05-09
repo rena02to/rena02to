@@ -13,6 +13,7 @@ In addition to my passion for technology, I'm an excellent lover of the geek and
 I'm also a cybersecurity enthusiast and am constantly seeking to acquire and improve my knowledge in the area.
 
 Combining my passion for technology and my love of games and geek culture, I seek to create engaging and intuitive digital experiences that captivate users and transport them to new worlds. I'm constantly seeking to learn and grow, exploring new technologies and trends to offer innovative and creative solutions.
+
 ## Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=Awesome-Lists&logoColor=white)](https://renatoalves.site/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renatosalves)
@@ -27,5 +28,7 @@ Combining my passion for technology and my love of games and geek culture, I see
 ![React.js](https://skillicons.dev/icons?i=react "React.js")
 ![Git](https://skillicons.dev/icons?i=git "Git")
 ![GitHub](https://skillicons.dev/icons?i=github "GitHub")
-  
+
+
+  <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rena02to&repo=portfolio) --->
 </div>
