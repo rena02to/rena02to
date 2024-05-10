@@ -28,6 +28,4 @@
   ![Git](https://skillicons.dev/icons?i=git "Git")
   ![GitHub](https://skillicons.dev/icons?i=github "GitHub")
   
-  ## Favorite projects
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rena02to&repo=portfolio)
 </div>
