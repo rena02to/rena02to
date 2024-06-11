@@ -14,7 +14,7 @@
   Combining my passion for technology and my love of games and geek culture, I seek to create engaging and intuitive digital experiences that captivate users and transport them to new worlds. I'm constantly seeking to learn and grow, exploring new technologies and trends to offer innovative and creative solutions.
   
   ## Links
-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=Awesome-Lists&logoColor=white)](https://renatoalves.site/)
+  [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=Awesome-Lists&logoColor=white)](https://renatoalves.site/)
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renatosalves)
   
   
