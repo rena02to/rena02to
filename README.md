@@ -21,11 +21,11 @@
   ## Skills
   ![Next](https://skillicons.dev/icons?i=next "Next")
   ![SASS](https://skillicons.dev/icons?i=sass "SASS")
+  ![Django](https://skillicons.dev/icons?i=django "Django")
+  ![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")
+  ![React.js](https://skillicons.dev/icons?i=react "React.js")
   ![HTML](https://skillicons.dev/icons?i=html "HTML")
   ![CSS](https://skillicons.dev/icons?i=css "CSS")
-  ![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")
-  ![Django](https://skillicons.dev/icons?i=django "Django")
-  ![React.js](https://skillicons.dev/icons?i=react "React.js")
   ![Git](https://skillicons.dev/icons?i=git "Git")
   ![GitHub](https://skillicons.dev/icons?i=github "GitHub")
   
