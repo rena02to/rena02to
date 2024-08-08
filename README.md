@@ -3,6 +3,8 @@
   # Hello! My name is Renato Alves 
   
   `"If you don't like your destiny, don't accept it."`
+
+  `"...it's not luck, it's training, effort until the end..."`
   
   ## About me
   I'm a front-end developer passionate about technology, design, and everything related to the digital universe. Currently, I'm pursuing a bachelor's degree in Computer Science, and I'm honing my skills in front-end development, delving deeper into the concepts of responsive design, UI, UX, and SEO.
