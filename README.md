@@ -7,13 +7,12 @@
   `"...it's not luck, it's training, effort until the end..."`
   
   ## About me
-  I'm a front-end developer passionate about technology, design, and everything related to the digital universe. Currently, I'm pursuing a bachelor's degree in Computer Science, and I'm honing my skills in front-end development, delving deeper into the concepts of responsive design, UI, UX, and SEO.
+  Currently, I am a full stack developer, focusing on front end development. When developing my applications my focus is to transform ideas into functional, attractive and responsive interfaces.
   
-  In addition to my passion for technology, I'm an excellent lover of the geek and gamer universe (and yes, Resident Evil is the best game, and Batman is the strongest hero). Whenever I have the chance, I end up diving into virtual worlds and becoming immersed in new adventures.
+  My front end development stack is based on Next.js, Sass and TypeScript. With this stack I build modern and efficient applications. I am always aiming to understand user behavior to provide the best experience when accessing my applications.
   
-  I'm also a cybersecurity enthusiast and am constantly seeking to acquire and improve my knowledge in the area.
-  
-  Combining my passion for technology and my love of games and geek culture, I seek to create engaging and intuitive digital experiences that captivate users and transport them to new worlds. I'm constantly seeking to learn and grow, exploring new technologies and trends to offer innovative and creative solutions.
+  On the back end, I use Django to create robust and scalable solutions, ensuring that the system works in the best way possible in conjunction with the front end.
+
   
   ## Links
   [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=Awesome-Lists&logoColor=white)](https://renatoalves.site/)
