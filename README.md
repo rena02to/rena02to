@@ -6,6 +6,8 @@
 
   "...it's not luck, it's training, effort until the end..."
   
+  "The impossible does not exist! Limits only exist if you let them exist!"
+  
   ## About me
   Currently, I am a full stack developer, focusing on front end development. When developing my applications my focus is to transform ideas into functional, attractive and responsive interfaces.
   
