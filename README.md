@@ -6,7 +6,7 @@
 
   "...it's not luck, it's training, effort until the end..."
   
-  "The impossible does not exist! Limits only exist if you let them exist!"
+  "The impossible does not exist! The limits only exist if you let them exist! ... Moved by challenges I never despair, and don't say I can't achieve what I want, because my willpower is the size of the universe."
   
   ## About me
   Currently, I am a full stack developer, focusing on front end development. When developing my applications my focus is to transform ideas into functional, attractive and responsive interfaces.
