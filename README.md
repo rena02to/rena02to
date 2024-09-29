@@ -2,9 +2,9 @@
   
   # Hello! My name is Renato Alves 
   
-  `"If you don't like your destiny, don't accept it."`
+  "If you don't like your destiny, don't accept it."
 
-  `"...it's not luck, it's training, effort until the end..."`
+  "...it's not luck, it's training, effort until the end..."
   
   ## About me
   Currently, I am a full stack developer, focusing on front end development. When developing my applications my focus is to transform ideas into functional, attractive and responsive interfaces.
