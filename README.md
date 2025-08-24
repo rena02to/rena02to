@@ -23,15 +23,18 @@
   
   ## Skills
   ![Next](https://skillicons.dev/icons?i=next "Next")
-  ![SASS](https://skillicons.dev/icons?i=sass "SASS")
   ![Django](https://skillicons.dev/icons?i=django "Django")
-  ![Python](https://skillicons.dev/icons?i=python "Python")
   ![Docker](https://skillicons.dev/icons?i=docker "Docker")
+  ![Python](https://skillicons.dev/icons?i=python "Python")
+  ![Git](https://skillicons.dev/icons?i=git "Git")
+  ![GitHub](https://skillicons.dev/icons?i=github "GitHub")
+  ![Google Cloud](https://skillicons.dev/icons?i=googlecloud "Google Cloud")
+  ![Amazon Web Services](https://skillicons.dev/icons?i=aws "Amazon Web Services")
+  ![GitHub](https://skillicons.dev/icons?i=github "GitHub")
   ![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")
+  ![SASS](https://skillicons.dev/icons?i=sass "SASS")
   ![React.js](https://skillicons.dev/icons?i=react "React.js")
   ![HTML](https://skillicons.dev/icons?i=html "HTML")
   ![CSS](https://skillicons.dev/icons?i=css "CSS")
-  ![Git](https://skillicons.dev/icons?i=git "Git")
-  ![GitHub](https://skillicons.dev/icons?i=github "GitHub")
   
 </div>
