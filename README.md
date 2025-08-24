@@ -25,6 +25,7 @@
   ![Next](https://skillicons.dev/icons?i=next "Next")
   ![SASS](https://skillicons.dev/icons?i=sass "SASS")
   ![Django](https://skillicons.dev/icons?i=django "Django")
+  ![Python](https://skillicons.dev/icons?i=python "Python")
   ![Docker](https://skillicons.dev/icons?i=docker "Docker")
   ![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")
   ![React.js](https://skillicons.dev/icons?i=react "React.js")
