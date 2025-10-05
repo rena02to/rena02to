@@ -17,7 +17,6 @@
 
   
   ## Links
-  [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=Awesome-Lists&logoColor=white)](https://renatoalves.site/)
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renatosalves)
   
   
