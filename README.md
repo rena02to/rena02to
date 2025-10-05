@@ -1,24 +1,23 @@
 <div align=center>
   
-  # Hello! My name is Renato Alves 
+  # Hi, I'm Renato Alves 👋
   
-  "If you don't like your destiny, don't accept it."
-
-  "...it's not luck, it's training, effort until the end..."
+  ---
   
-  "The impossible does not exist! The limits only exist if you let them exist! ... Moved by challenges I never despair, and don't say I can't achieve what I want, because my willpower is the size of the universe."
+  ## About Me
+  I am a **Full Stack Developer** passionate about turning **ideas into high-quality, user-friendly applications**. My focus is on delivering **modern, efficient, and responsive interfaces** while building robust backend systems that scale.  
   
-  ## About me
-  Currently, I am a full stack developer, focusing on front end development. When developing my applications my focus is to transform ideas into functional, attractive and responsive interfaces.
+  - **Front End Expertise:** Next.js, TypeScript, Sass — creating interactive and visually appealing user interfaces with great performance.  
+  - **Back End Expertise:** Django — building reliable and scalable APIs, integrating seamlessly with front-end applications.  
   
-  My front end development stack is based on Next.js, Sass and TypeScript. With this stack I build modern and efficient applications. I am always aiming to understand user behavior to provide the best experience when accessing my applications.
+  I enjoy **analyzing user behavior** to optimize experiences, and I thrive on **solving complex problems** while keeping the code clean and maintainable. My goal is to deliver software that is both **functional and delightful to use**.
   
-  On the back end, I use Django to create robust and scalable solutions, ensuring that the system works in the best way possible in conjunction with the front end.
-
+  ---
   
   ## Links
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renatosalves)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renatosalves)  
   
+  ---
   
   ## Skills
   ![Next](https://skillicons.dev/icons?i=next "Next")
@@ -36,5 +35,21 @@
   ![React.js](https://skillicons.dev/icons?i=react "React.js")
   ![HTML](https://skillicons.dev/icons?i=html "HTML")
   ![CSS](https://skillicons.dev/icons?i=css "CSS")
+  
+---
+
+## What I Do
+- Design and develop **scalable web applications** with clean architecture.  
+- Build **interactive front-end experiences** that engage users and enhance usability.  
+- Develop **robust backend systems**, integrating APIs, databases, and asynchronous tasks.  
+- Automate processes with **Docker, Celery, and cloud services** to optimize performance.  
+- Continuously **learn new technologies**, stay updated with trends, and apply best practices.
+
+---
+
+## Why Work With Me
+I am **results-oriented, proactive, and detail-focused**. I thrive in **challenging environments** where I can apply my skills to deliver high-quality software.  
+I bring **creativity, technical expertise, and perseverance**, turning complex problems into elegant solutions.
+
   
 </div>
