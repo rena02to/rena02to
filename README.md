@@ -22,8 +22,8 @@
   ## Skills
   ![Next](https://skillicons.dev/icons?i=next "Next")
   ![Django](https://skillicons.dev/icons?i=django "Django")
-  ![Docker](https://skillicons.dev/icons?i=postgres "PotsgreSQL")
-  ![PostgreSQL](https://skillicons.dev/icons?i=next "Next")
+  ![Docker](https://skillicons.dev/icons?i=docker "Docker")
+  ![PostgreSQL](https://skillicons.dev/icons?i=postgresql "PostgreSQL")
   ![Python](https://skillicons.dev/icons?i=python "Python")
   ![Git](https://skillicons.dev/icons?i=git "Git")
   ![GitHub](https://skillicons.dev/icons?i=github "GitHub")
